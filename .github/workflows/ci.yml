@@ -4,6 +4,10 @@ name: CI — Pruebas y Cobertura
 on:
   push:
     branches: [ main ]
+    paths-ignore: 
+      - 'documentacion/**'
+      - 'README.md'
+
   pull_request:
     branches: [ main ]
 
