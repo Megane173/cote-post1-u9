@@ -1,7 +1,8 @@
 # Recordatorios Citas Service
+[![CI — Pruebas y Cobertura](https://github.com/Megane173/cote-post1-u9/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Megane173/cote-post1-u9/actions/workflows/ci.yml)
 
 ## Documentación
-![CI](documentacion/gitHubActions.png)
+![CI](documentacion/githubBadge.png)
 ![Pruebas en verde](documentacion/sucessTests.png)
 
 ## Descripción
